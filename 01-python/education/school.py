@@ -10,5 +10,4 @@ import io
 def draw_school():
     image = image.open('school.jpg')
     image.show()
-    print("school not found")
     return
